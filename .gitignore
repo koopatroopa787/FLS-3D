@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project specific
+outputs/
+checkpoints/
+*.ply
+*.obj
+*.xyz
+*.stl
+colmap_bin/
+env_config.json
+
+# Large binary files
+*.mp4
+*.jpg
+*.png
+*.zip
+
+# Temporary files
+*.log
+last_dir_number.txt
