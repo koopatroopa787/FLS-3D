@@ -1,0 +1,23 @@
+# Core dependencies
+numpy
+torch
+Pillow
+opencv-python
+
+# 3D Processing and Visualization
+open3d
+pyntcloud
+pandas
+pyvista
+
+# Deep Learning
+diffusers
+transformers
+
+# Web Interface and Visualization
+streamlit
+plotly
+
+# Optional but recommended
+scipy
+tqdm
